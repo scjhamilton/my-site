@@ -1,0 +1,19 @@
+---
+title: "My Projects"
+---
+
+### Sales Analysis 
+```{python}
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data = {"apple": 100, "microsoft": 150, "google": 120}
+names = list(data.keys())
+values = list(data.values())
+
+fig, axs = plt.subplots(1, 3, figsize=(9, 3), sharey=True)
+axs[0].bar(names, values, color=["red", "blue", "green"])
+
+plt.show()
+```

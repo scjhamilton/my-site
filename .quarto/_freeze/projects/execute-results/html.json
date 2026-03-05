@@ -1,0 +1,12 @@
+{
+  "hash": "a8932a423cd403ad9c5f070ad6697835",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"My Projects\"\n---\n\n### Sales Analysis \n\n::: {#3d5dc08b .cell execution_count=1}\n``` {.python .cell-code}\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\ndata = {\"apple\": 100, \"microsoft\": 150, \"google\": 120}\nnames = list(data.keys())\nvalues = list(data.values())\n\nfig, axs = plt.subplots(1, 3, figsize=(9, 3), sharey=True)\naxs[0].bar(names, values, color=[\"red\", \"blue\", \"green\"])\n\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](projects_files/figure-html/cell-2-output-1.png){width=738 height=263}\n:::\n:::\n\n\n",
+    "supporting": [
+      "projects_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,26 @@
+---
+title: "My First Data Science Post"
+date: 2025-03-05
+description: "A short summary that appears on the blog listing page — keep it to 1-2 sentences."
+image: images/your-data-viz.png
+categories: [python, data]
+---
+
+## Introduction
+
+Your written content goes here.
+
+## Python Analysis
+```{python}
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(0, 10, 100)
+plt.plot(x, np.sin(x))
+plt.title("My First Plot")
+plt.show()
+```
+
+## Findings
+
+More written content and analysis here.

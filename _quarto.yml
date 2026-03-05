@@ -1,0 +1,30 @@
+project: 
+  type: website
+  output-dir: docs
+  title: " "
+website: 
+  title: "Scott Hamilton"
+  navbar: 
+    right: 
+      - text: "ABOUT"
+        href: about.qmd
+      - text: "PROJECTS & PUBLICATIONS"
+        href: projects.qmd
+      - text: "BLOG"
+        href: blog.qmd
+      - icon: github
+        href: https://github.com/scjhamilton/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/scott-hamilton-69b58453/
+  page-footer: 
+    left: "© 2026 Scott Hamilton. All rights reserved."
+
+format:
+  html:
+    theme: 
+      - flatly
+      - styles.css
+    toc: true
+    include-in-header: 
+      text: 
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
