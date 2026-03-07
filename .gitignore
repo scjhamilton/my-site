@@ -1,0 +1,19 @@
+# Quarto generated files
+/.quarto/
+_site/
+
+# Jupyter cache
+.jupyter_cache/
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
