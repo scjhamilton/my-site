@@ -17,3 +17,4 @@ Thumbs.db
 # Editor settings
 .vscode/
 .idea/
+**/*.quarto_ipynb
