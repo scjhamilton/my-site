@@ -5,9 +5,9 @@ page-layout: full
 ::: hero
 ::: hero-text
 
-# Your Name, PhD
+# Scott Hamilton, PhD
 
-[DATA SCIENTIST & RESEARCHER]{.subtitle}
+[SOCIAL SCIENTIST & PROFESSOR]{.subtitle}
 
 ::: social-icons
 [{{< fa brands github >}}](https://github.com/you)
@@ -15,10 +15,7 @@ page-layout: full
 [{{< fa envelope >}}](mailto:you@email.com)
 :::
 
-I am a researcher and data scientist with a passion for
-open source tools and data literacy. My **research** focuses on
-health equity and urban data. My **projects** explore the
-intersection of data and storytelling.
+I am a sociologist with a passion for statistics, social media analytics, and the study of identity. My **research** focuses on how data shapes and reflects social behavior, particularly in digital spaces. My **projects** explore the intersection of data and storytelling.
 
 [LEARN MORE ABOUT ME →]{.cta-link}
 

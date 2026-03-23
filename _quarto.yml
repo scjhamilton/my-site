@@ -3,7 +3,7 @@ project:
   output-dir: docs
   title: " "
 website: 
-  title: "Scott Hamilton"
+  title: " "
   navbar: 
     right: 
       - text: "ABOUT"
@@ -27,4 +27,6 @@ format:
     toc: true
     include-in-header: 
       text: 
-        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+        #<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Space+Grotesk:wght@500;700&family=Fira+Code&display=swap" rel="stylesheet">
+        

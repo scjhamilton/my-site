@@ -5,5 +5,5 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  #template: blog-listing.ejs
+  template: blog-listing.ejs
 ---
