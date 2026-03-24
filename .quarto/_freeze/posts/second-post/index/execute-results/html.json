@@ -2,7 +2,7 @@
   "hash": "4c9a67b19d1813fdcb8ddc274f02dc93",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: \"My First Data Science Post\"\ndate: 2025-03-05\ndescription: \"A short summary that appears on the blog listing page — keep it to 1-2 sentences.\"\nimage: assets/your-data-viz.png\ncategories: [python, data]\n---\n\n## Introduction\n\nYour written content goes here.\n\n## Python Analysis\n\n::: {#d202c482 .cell execution_count=1}\n``` {.python .cell-code}\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\nplt.plot(x, np.sin(x))\nplt.title(\"My First Plot\")\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](index_files/figure-html/cell-2-output-1.png){width=590 height=431}\n:::\n:::\n\n\n## Findings\n\nMore written content and analysis here.\n\n",
+    "markdown": "---\ntitle: \"My First Data Science Post\"\ndate: 2025-03-05\ndescription: \"A short summary that appears on the blog listing page — keep it to 1-2 sentences.\"\nimage: assets/your-data-viz.png\ncategories: [python, data]\n---\n\n## Introduction\n\nYour written content goes here.\n\n## Python Analysis\n\n::: {#dd1f9d80 .cell execution_count=1}\n``` {.python .cell-code}\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\nplt.plot(x, np.sin(x))\nplt.title(\"My First Plot\")\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](index_files/figure-html/cell-2-output-1.png){width=590 height=431}\n:::\n:::\n\n\n## Findings\n\nMore written content and analysis here.\n\n",
     "supporting": [
       "index_files"
     ],

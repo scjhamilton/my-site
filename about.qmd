@@ -31,7 +31,7 @@ print("Hello, World!")
 :::
 
 ::: hero-image
-![](your-data-viz.png)
+![](assets/profileheader.jpg)
 :::
 :::
 

@@ -1,8 +1,8 @@
 {
-  "hash": "f361fad4b339754152500855b72a1d37",
+  "hash": "bf18de5652647503de6c20325d37a843",
   "result": {
     "engine": "jupyter",
-    "markdown": "---\ntitle: \"About\"\npage-layout: full\n---\n\n::: hero\n::: hero-text\n\n# Your Name, PhD\n\n[DATA SCIENTIST & RESEARCHER]{.subtitle}\n\n::: social-icons\n[{{< fa brands github >}}](https://github.com/you)\n[{{< fa brands linkedin >}}](https://linkedin.com/in/you)\n[{{< fa envelope >}}](mailto:you@email.com)\n:::\n\nI am a researcher and data scientist with a passion for\nopen source tools and data literacy. My **research** focuses on\nhealth equity and urban data. My **projects** explore the\nintersection of data and storytelling.\n\n[LEARN MORE ABOUT ME →]{.cta-link}\n\n::: {#79506a35 .cell execution_count=1}\n``` {.python .cell-code}\nprint(\"Hello, World!\")\n2 + 2 \n```\n\n::: {.cell-output .cell-output-stdout}\n```\nHello, World!\n```\n:::\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n4\n```\n:::\n:::\n\n\n:::\n\n::: hero-image\n![](your-data-viz.png)\n:::\n:::\n\n",
+    "markdown": "---\ntitle: \"About\"\npage-layout: full\n---\n\n::: hero\n::: hero-text\n\n# Scott Hamilton, PhD\n\n[SOCIAL SCIENTIST & PROFESSOR]{.subtitle}\n\n::: social-icons\n[{{< fa brands github >}}](https://github.com/you)\n[{{< fa brands linkedin >}}](https://linkedin.com/in/you)\n[{{< fa envelope >}}](mailto:you@email.com)\n:::\n\nI am a sociologist with a passion for statistics, social media analytics, and the study of identity. My **research** focuses on how data shapes and reflects social behavior, particularly in digital spaces. My **projects** explore the intersection of data and storytelling.\n\n[LEARN MORE ABOUT ME →]{.cta-link}\n\n::: {#62f29806 .cell execution_count=1}\n``` {.python .cell-code}\nprint(\"Hello, World!\")\n2 + 2 \n```\n\n::: {.cell-output .cell-output-stdout}\n```\nHello, World!\n```\n:::\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n4\n```\n:::\n:::\n\n\n:::\n\n::: hero-image\n![](assets/profileheader.jpg)\n:::\n:::\n\n",
     "supporting": [
       "about_files"
     ],
