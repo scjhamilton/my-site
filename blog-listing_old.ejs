@@ -1,0 +1,30 @@
+<div class="blog-list">
+<% for (const item of items) { %>
+<hr />
+<div class="blog-row">
+
+  <div class="blog-left">
+    <a href="<%= item.path %>">
+      <h2 class="blog-title"><%= item.title %></h2>
+    </a>
+    <p class="blog-date"><%= item.date %></p>
+  </div>
+
+  <div class="blog-right">
+    <% if (item.image) { %>
+      <img src="<%= item.image %>" class="blog-image" />
+    <% } %>
+    <p class="blog-excerpt"><%= item.description %></p>
+    <div class="share-icons">
+      <a href="https://twitter.com/intent/tweet?text=<%= item.title %>" target="_blank">
+        <i class="fa-brands fa-twitter"></i>
+      </a>
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url=<%= item.path %>" target="_blank">
+        <i class="fa-brands fa-linkedin"></i>
+      </a>
+    </div>
+  </div>
+
+</div>
+<% } %>
+</div>

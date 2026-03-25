@@ -17,8 +17,6 @@ page-layout: full
 
 I am a sociologist with a passion for statistics, social media analytics, and the study of identity. My **research** focuses on how data shapes and reflects social behavior, particularly in digital spaces. My **projects** explore the intersection of data and storytelling.
 
-[LEARN MORE ABOUT ME →]{.cta-link}
-
 
 
 ```{python}

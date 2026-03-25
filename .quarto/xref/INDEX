@@ -76,5 +76,8 @@
   },
   "posts/second-post/index.qmd": {
     "index.html": "ab065f29"
+  },
+  "posts/third-post/index.qmd": {
+    "index.html": "bcdf98ec"
   }
 }

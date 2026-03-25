@@ -5,5 +5,7 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  template: blog-listing.ejs
+  fields: [image, date, title, description, categories]
+  image-align: right
+  image-height: "250px"
 ---
